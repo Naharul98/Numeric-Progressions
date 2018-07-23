@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Progression
+comment0.text=\r\n\ A\ class\ for\ numeric\ progressions.\r\n\ @author\ AKM\ Naharul\ Hayat\r\n
+comment1.params=
+comment1.target=Progression()
+comment1.text=Default\ constructor.
+comment2.params=
+comment2.target=long\ firstValue()
+comment2.text=\ Resets\ the\ progression\ to\ the\ first\ value.\r\n\ \r\n\ @return\ first\ value\r\n
+comment3.params=
+comment3.target=long\ nextValue()
+comment3.text=\ Advances\ the\ progression\ to\ the\ next\ value.\r\n\r\n\ @return\ next\ value\ of\ the\ progression\r\n
+comment4.params=n
+comment4.target=void\ printProgression(int)
+comment4.text=\ Prints\ the\ first\ n\ values\ of\ the\ progression.\r\n\ \r\n\ @param\ n\ number\ of\ values\ to\ print\r\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GeomProgression
+comment0.text=\r\n\ Geometric\ Progression\r\n\ @author\ -\ Naharul\ Hayat\r\n
+comment1.params=
+comment1.target=GeomProgression()
+comment1.text=Default\ constructor\ setting\ base\ 2.
+comment2.params=b
+comment2.target=GeomProgression(long)
+comment2.text=\ Parametric\ constructor\ providing\ the\ base.\r\n\r\n\ @param\ b\ base\ of\ the\ progression.\r\n
+comment3.params=
+comment3.target=long\ nextValue()
+comment3.text=\ Advances\ the\ progression\ by\ multiplying\ the\ base\ with\ the\ current\ value.\r\n\ \r\n\ @return\ next\ value\ of\ the\ progression\r\n
+numComments=4

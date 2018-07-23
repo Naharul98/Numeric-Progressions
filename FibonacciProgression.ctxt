@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FibonacciProgression
+comment0.text=\r\n\ Fibonacci\ progression.\r\n\ @author\ -\ Naharul\ Hayat\r\n
+comment1.params=
+comment1.target=FibonacciProgression()
+comment1.text=Default\ constructor\ setting\ 1\ as\ the\ second\ value.
+comment2.params=second
+comment2.target=FibonacciProgression(long)
+comment2.text=\ Parametric\ constructor\ providing\ the\ first\ and\ second\ values.\r\n\r\n\ @param\ second\ -\ the\ second\ value.\r\n
+comment3.params=
+comment3.target=long\ nextValue()
+comment3.text=\ Advances\ the\ progression\ by\ adding\ the\ previous\ value\ to\ the\ current\ value.\r\n\ \r\n\ @return\ next\ value\ of\ the\ progression\r\n
+numComments=4
